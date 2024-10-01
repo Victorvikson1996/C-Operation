@@ -1,0 +1,14 @@
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.AssemblyInfoInputs.cache
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.AssemblyInfo.cs
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.csproj.CoreCompileInputs.cache
+/Users/chukwuebuka/Native/C#Operation/bin/Debug/net8.0/C#Operation
+/Users/chukwuebuka/Native/C#Operation/bin/Debug/net8.0/C#Operation.deps.json
+/Users/chukwuebuka/Native/C#Operation/bin/Debug/net8.0/C#Operation.runtimeconfig.json
+/Users/chukwuebuka/Native/C#Operation/bin/Debug/net8.0/C#Operation.dll
+/Users/chukwuebuka/Native/C#Operation/bin/Debug/net8.0/C#Operation.pdb
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.dll
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/refint/C#Operation.dll
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.pdb
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/C#Operation.genruntimeconfig.cache
+/Users/chukwuebuka/Native/C#Operation/obj/Debug/net8.0/ref/C#Operation.dll
